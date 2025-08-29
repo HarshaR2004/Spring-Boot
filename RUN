@@ -1,0 +1,5 @@
+java -jar target/webhook-solver-0.0.1-SNAPSHOT.jar \
+  --app.regNo=REG12347 \
+  --app.name="Your Name" \
+  --app.email="your@email.com" \
+  --app.finalQuery="YOUR_SQL_QUERY"
